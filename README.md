@@ -1,55 +1,61 @@
-# 🎓 Certifications
+🎓 Certifications
 
-This repository contains verified certifications that showcase my skills in programming, soft skills, and real-world industry simulations. Each certificate reflects my commitment to continuous learning and practical experience in relevant domains.
+This repository contains verified certifications that demonstrate my skills in programming, soft skills, data analytics, and real-world industry simulations. Each certification reflects my commitment to continuous learning and practical application of knowledge.
 
-## 📁 Certificates Included
+📁 Certificates Included
+🧠 Soft Skills
 
-### 🧠 Soft Skills
-- **Body Language: Key to Professional Success**  
-  *Issued by:* NPTEL (IIT)  
-  *Duration:* 4 weeks (Aug–Sep 2024)  
-  *Score:* 65/100  
-  A course focused on mastering body language for effective professional communication and workplace success.
+Body Language: Key to Professional Success
+Issued by: NPTEL (IIT)
+Duration: 4 weeks (Aug–Sep 2024)
+Score: 65/100
+Focused on understanding and applying body language for effective professional communication and workplace success.
 
-### 💻 Programming & Development
-- **Advanced C++ Training**  
-  *Issued by:* IIT Bombay (Spoken Tutorial Project)  
-  *Date:* February 10, 2025  
-  *Score:* 65%  
-  Hands-on training covering advanced C++ concepts, organized at Sinhgad Institute of Technology & Science.
+💻 Programming & Development
 
-### 📊 Industry Simulation
-- **Data Analytics Job Simulation**  
-  *Issued by:* Deloitte via Forage  
-  *Date:* June 23, 2025  
-  Completed practical tasks involving **data analysis** and **forensic technology** as part of a real-world job simulation program offered by Deloitte.
+Advanced C++ Training
+Issued by: IIT Bombay (Spoken Tutorial Project)
+Date: February 10, 2025
+Score: 65%
+Hands-on training covering advanced C++ concepts, organized at Sinhgad Institute of Technology & Science.
 
-  📊 Data Science Fundamentals
+📊 Industry Simulation
+
+Data Analytics Job Simulation
+Issued by: Deloitte (via Forage)
+Date: June 23, 2025
+Completed practical tasks involving data analysis and forensic technology through a real-world job simulation.
+
+📊 Data Science Fundamentals
+
 Introduction to Data Science
 Issued by: Infosys (Springboard)
 Date: December 7, 2025
-Successfully completed a foundational course covering data science concepts, data handling, and analytical thinking for real-world problem solving. 
+Gained foundational knowledge in data science, data handling, and analytical thinking for solving real-world problems.
 
 ☁️ Data Analytics & Cloud Certification
+
 Oracle Analytics Cloud 2025 Certified Professional
 Issued by: Oracle University
 Date: October 31, 2025
-Earned professional certification validating expertise in Oracle Analytics Cloud, including data visualization, analytics workflows, and business intelligence solutions.
+Professional certification validating expertise in Oracle Analytics Cloud, including data visualization, analytics workflows, and business intelligence solutions.
 
-## 📌 Purpose
+📌 Purpose
 
-This repository serves as a verified collection of my certifications that can be shared with:
-- Recruiters and hiring managers
-- Mentors and educators
-- Collaborators and peers
+This repository serves as a verified collection of certifications that can be shared with:
 
-## 🔗 Useful Links
+Recruiters and hiring managers
 
-- [My GitHub Profile](https://github.com/Experio2705)
-- [Forage - Deloitte Simulation](http://theforage.com/)
-- [Spoken Tutorial Project – IIT Bombay](https://spoken-tutorial.org/)
-- [NPTEL](https://nptel.ac.in/)
+Mentors and educators
 
----
+Collaborators and peers
 
-📁 All certificates are stored in this repository in PDF format and are named clearly for easy reference.
+🔗 Useful Links
+
+GitHub Profile
+
+Forage – Deloitte Simulation
+
+Spoken Tutorial Project – IIT Bombay
+
+NPTEL
