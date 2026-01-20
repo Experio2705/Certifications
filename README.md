@@ -24,6 +24,18 @@ This repository contains verified certifications that showcase my skills in prog
   *Date:* June 23, 2025  
   Completed practical tasks involving **data analysis** and **forensic technology** as part of a real-world job simulation program offered by Deloitte.
 
+  📊 Data Science Fundamentals
+Introduction to Data Science
+Issued by: Infosys (Springboard)
+Date: December 7, 2025
+Successfully completed a foundational course covering data science concepts, data handling, and analytical thinking for real-world problem solving. 
+
+☁️ Data Analytics & Cloud Certification
+Oracle Analytics Cloud 2025 Certified Professional
+Issued by: Oracle University
+Date: October 31, 2025
+Earned professional certification validating expertise in Oracle Analytics Cloud, including data visualization, analytics workflows, and business intelligence solutions.
+
 ## 📌 Purpose
 
 This repository serves as a verified collection of my certifications that can be shared with:
